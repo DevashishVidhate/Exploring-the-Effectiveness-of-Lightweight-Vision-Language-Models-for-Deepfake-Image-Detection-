@@ -1,0 +1,1 @@
+# Exploring-the-Effectiveness-of-Lightweight-Vision-Language-Models-for-Deepfake-Image-Detection-
